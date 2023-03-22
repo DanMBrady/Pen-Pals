@@ -1,0 +1,68 @@
+body {
+    background: rgb(252, 250, 214);
+    margin: 0;
+    
+    
+}
+
+.header {
+   
+    height:150px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head{
+    background: rgb(220, 219, 186);
+    height:100px;
+    width:30%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   border-radius: 20px;
+}
+
+.pageElements{
+    padding-left:100px;
+}
+
+#button{
+    margin-top: 40px;
+}
+
+.label{
+    height:200px;
+    width:88%;
+    margin-bottom: 0px ;
+    
+}
+.bottom{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:40px;
+}
+
+.letterProduct{
+    background:rgb(220, 219, 186); 
+    height:200px;
+    width:88%;
+    border:2px solid black;
+    margin-bottom: 0px ;
+    border-radius:10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.topicDiv{
+    background:rgb(241, 160, 255); 
+    width:60px;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid black;
+    border-radius:10px;
+}

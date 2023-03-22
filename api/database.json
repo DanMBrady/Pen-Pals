@@ -1,0 +1,54 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Dan",
+      "email": "Dan@Gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Sarah",
+      "email": "Sarah@Gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "John@Gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Jackson",
+      "email": "Jackson@Gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Niko",
+      "email": "Niko@Gmail.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "description": "business"
+    },
+    {
+      "id": 2,
+      "description": "friendly"
+    },
+    {
+      "id": 3,
+      "description": "family"
+    },
+    {
+      "id": 4,
+      "description": "congrats"
+    },
+    {
+      "id": 5,
+      "description": "condolences"
+    }
+  ],
+  "letters": [
+   
+  ]
+}
